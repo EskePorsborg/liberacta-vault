@@ -1,1 +1,1 @@
-[[Collectivism]] 
+[[Collectivism]] is probably best understood as the negation of [[Individualism]], where the collective comes first as opposed to the individual. 
