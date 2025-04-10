@@ -11,10 +11,14 @@
             "id": "d212c627023aa52c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Finished_Articles/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ]
@@ -177,6 +181,8 @@
   },
   "active": "d212c627023aa52c",
   "lastOpenFiles": [
+    "Vocabulary/Collectivism.md",
+    "Finished_Articles/Untitled.md",
     "liberacta/yoyoy.md",
     "Vocabulary/Untitled 5.md",
     "Vocabulary/Untitled 4.md",
@@ -201,8 +207,6 @@
     "Vocabulary/Taxation.md",
     "Vocabulary/Tariffs.md",
     "Vocabulary/Syndicalism.md",
-    "Vocabulary/Supply and Demand.md",
-    "Vocabulary/Subjectivism.md",
     "Vocabulary",
     "Finished_Articles",
     "liberacta",
