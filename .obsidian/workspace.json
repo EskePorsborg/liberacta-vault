@@ -11,14 +11,14 @@
             "id": "57e673e0abd75fc0",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "LiberActa",
-                "bFile": "LiberActa",
-                "aRef": ""
+                "file": "liberacta/yoyoy.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: LiberActa"
+              "icon": "lucide-file",
+              "title": "yoyoy"
             }
           }
         ]
@@ -197,6 +197,8 @@
   },
   "active": "57e673e0abd75fc0",
   "lastOpenFiles": [
+    "liberacta/yoyoy.md",
+    "liberacta",
     "Welcome.md",
     "liberacta-vault/README.md",
     "liberacta-vault/LiberActa",
