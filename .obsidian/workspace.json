@@ -4,22 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "aa4a2c34dd75ac2e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "57e673e0abd75fc0",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          }
-        ]
-      },
-      {
         "id": "402a96b230936e8e",
         "type": "tabs",
         "children": [
@@ -191,14 +175,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b0dd801b490f0d4e",
+  "active": "d212c627023aa52c",
   "lastOpenFiles": [
+    "liberacta/yoyoy.md",
+    "Vocabulary/Untitled 5.md",
+    "Vocabulary/Untitled 4.md",
+    "Vocabulary/Untitled 3.md",
+    "Vocabulary/Untitled 2.md",
+    "Vocabulary/Untitled 1.md",
+    "Vocabulary/Universalization Principle.md",
+    "Vocabulary/Unions.md",
+    "Vocabulary/Unemployment.md",
+    "Vocabulary/Uncertainty.md",
+    "Vocabulary/Tyranny.md",
+    "Vocabulary/Truth.md",
+    "Vocabulary/Triangular Intervention.md",
+    "Vocabulary/Totalitarianism.md",
+    "Vocabulary/Tolerance.md",
+    "Vocabulary/Time.md",
+    "Vocabulary/Theory.md",
+    "Vocabulary/The Market.md",
+    "Vocabulary/Teleology.md",
+    "Vocabulary/Technology.md",
+    "Vocabulary/Taxes.md",
+    "Vocabulary/Taxation.md",
+    "Vocabulary/Tariffs.md",
+    "Vocabulary/Syndicalism.md",
+    "Vocabulary/Supply and Demand.md",
+    "Vocabulary/Subjectivism.md",
     "Vocabulary",
     "Finished_Articles",
-    "liberacta/yoyoy.md",
     "liberacta",
-    "Welcome.md",
-    "liberacta-vault/README.md",
     "liberacta-vault/LiberActa",
     "liberacta-vault"
   ]

@@ -1,0 +1,2 @@
+![[Pasted image 20250314123906.png]]
+We don't know what is going on in someone else's mind except that they prefer to do the action that they did over not doing it. Maybe they're mistaken about the means that they use to obtain a certain goal, but nonetheless,  who is to say that that was the actual goal they sought to acheive?

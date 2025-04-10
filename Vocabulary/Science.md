@@ -1,0 +1,5 @@
+# F.A. Hayek
+
+In Individualism and Economic Order p124-126, Hayek talks about two sciences: The natural sciences and the social sciences.
+The natural sciences are constituted by the results we observe of the underlying processes that we cannot directly see, thus scientists make hypotheses about the unseen, then test them to see if they achieve the expected outcome and that this is replicable.
+In the social sciences, on the other hand, we cannot do this. Human actions can never be necessarily determined to be replicable and social conditions never repeat identically. I am not aware if Hayek believes this, but I largely agree with what he said. So the reason why human actions can never be necessarily determined is due to the fact that two people can do the same physical action but for different reasons. We cannot test their actual reason, since this relies on them telling the truth and we know that man is able to lie, thus we are exempt from achieving absolute certainty

@@ -1,0 +1,2 @@
+![[Pasted image 20250314092305.png]]
+This entire section is about how it is impossible to calculate the value of government expenditures and that it necessarily has to be worth less than how it would otherwise have been spent

@@ -1,0 +1,6 @@
+![[Pasted image 20250207225459.png]]MES p1050, Rothbard talks about the problem of minarchism
+
+
+![[Pasted image 20250207225656.png]]
+1054, Rothbard expands further.
+How I understand it, and this might be a generous interpretation of Rothbard, but once one realizes the nature of human action and thus the fact that it is individual, then one will realize that there will most likely exist some aggressive entity, whether it be one human or a collection of humans (still categorically one human acting). But by creating a system of legalized aggression, there is now unnaturally increased incentives to take aggressive actions. A private police officer might be more corrupt than a public one (a public police officer is necessarily corrupt/aggressive), but in a free society, the private police officer relies on his costumers, whereas the public officer has none and thus has a misconstrued financial incentive. Additionally, the public officer relies on a popularly held misconception of his higher moral status, he thus is financially incentivized to deceive people to keep up his legally systemic aggression
