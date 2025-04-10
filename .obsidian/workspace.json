@@ -11,14 +11,10 @@
             "id": "57e673e0abd75fc0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "liberacta/yoyoy.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "yoyoy"
+              "title": "New tab"
             }
           }
         ]
@@ -195,8 +191,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "57e673e0abd75fc0",
+  "active": "b0dd801b490f0d4e",
   "lastOpenFiles": [
+    "Vocabulary",
+    "Finished_Articles",
     "liberacta/yoyoy.md",
     "liberacta",
     "Welcome.md",
