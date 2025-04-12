@@ -1,6 +1,6 @@
 ---
-title: "Praxeology"
+term: "Praxeology"
 slug: "praxeology"
+tags: ["economics", "action"]
 ---
-
-The study of human action. See also [[human-action]] and [[scarcity]].
+Definition content...
