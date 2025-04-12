@@ -1,16 +1,20 @@
 ---
-title: "Subjective Value"
-slug: "subjective-value"
-tags: ["economics", "value theory", "austrian"]
+title: Subjective Value
+slug: subjective-value
+tags: ["economics", "value theory"]
 ---
 
-The **theory of subjective value** explains that the worth of a good or service is **not inherent**, but rather determined by the importance an individual places on it.
+# Subjective Value
 
-This means that value is:
+The theory of subjective value is a fundamental concept in economics that states that the value of a good or service is not determined by any inherent property of the good or service itself, but rather by the importance an individual places on it for the achievement of their desired ends.
 
-- 💡 **Subjective** — it varies from person to person.
-- 📦 **Contextual** — the same item may be more valuable in one scenario than another.
+This theory is a cornerstone of [[praxeology]], as it explains how human beings make choices and act based on their personal valuations. Unlike objective theories of value, which suggest that value is inherent in the labor, materials, or utility of a good, subjective value theory recognizes that different individuals may value the same good differently based on their personal circumstances, preferences, and goals.
 
-> A bottle of water is worth more to someone dying of thirst than to someone standing in the rain.
+## Key Points
 
-See also: [[human-action]] and [[praxeology]].
+1. Value is personal and contextual
+2. The same good can have different values for different people
+3. Value can change based on circumstances and time
+4. Economic calculation relies on subjective valuations
+
+Understanding subjective value is crucial for grasping how markets work and why voluntary exchange benefits all participants.
